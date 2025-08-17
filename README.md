@@ -22,18 +22,6 @@ Tudo organizado de forma modular e executado via **CMD**, para você aprender n�
 
 ---
 
-## **📂 Estrutura do projeto**
-
-```
-src/
- ├─ entidades/       # Classes que representam os objetos do sistema
- ├─ interfaces/      # Interfaces que definem contratos
- ├─ servicos/        # Lógica de negócio
- └─ Main.java        # Classe principal
-```
-
----
-
 ## **🎯 Objetivos de aprendizado**
 
 * Praticar os **fundamentos de POO** com exemplos claros
